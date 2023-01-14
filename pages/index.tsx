@@ -16,7 +16,7 @@ function LinkCard({
 }) {
   return (
     <a
-      no-referrer="true"
+      rel="noreferrer"
       target="_blank"
       href={href}
       className={`${
@@ -43,7 +43,12 @@ function LinkCard({
 
 function LinkSocial({ href, icon }: { href: string; icon: string }) {
   return (
-    <a no-referrer="true" target="_blank" href={href} className="hover:scale-110 transition-all">
+    <a
+      rel="noreferrer"
+      target="_blank"
+      href={href}
+      className="hover:scale-110 transition-all"
+    >
       <Image
         src={icon}
         alt="Icon"
@@ -95,8 +100,15 @@ export default function Home() {
               <LinkSocial key={i} {...link} />
             ))}
           </div>
-          <h1 className="flex items-center justify-center gap-5 font-bold text-center text-2xl cursor-none hover:scale-105 transition-all">Linktree 
-              <Image src="/logo.svg" alt="Logo" width={50} height={50} className="text-black" />
+          <h1 className="flex items-center justify-center gap-5 font-bold text-center text-2xl cursor-none hover:scale-105 transition-all">
+            Linktree
+            <Image
+              src="/logo.svg"
+              alt="Logo"
+              width={50}
+              height={50}
+              className="text-black"
+            />
           </h1>
         </div>
       </div>
