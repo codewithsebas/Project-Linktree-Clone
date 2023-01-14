@@ -1,0 +1,38 @@
+{
+  "name": "@Sebastián Giraldo",
+  "avatar": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+  "links": [
+    {
+      "title": "My personal site",
+      "href": "https://leerob.io",
+      "description": "Description",
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg"
+    },
+    {
+      "title": "Real State",
+      "href": "https://project-real-state-beige.vercel.app/",
+      "description": "Description",
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg"
+    },
+    {
+      "title": "Spotify 2.0",
+      "href": "https://project-spotify-2-0.vercel.app/",
+      "description": "Description",
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg"
+    }
+  ],
+  "socials": [
+    {
+      "title": "My personal site",
+      "href": "https://leerob.io"
+    },
+    {
+      "title": "Real State",
+      "href": "https://project-real-state-beige.vercel.app/"
+    },
+    {
+      "title": "Spotify 2.0",
+      "href": "https://project-spotify-2-0.vercel.app/"
+    }
+  ]
+}
