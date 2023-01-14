@@ -73,7 +73,7 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.svg" />
       </Head>
-      <div className="h-screen flex flex-col items-center justify-between gap-10 mx-auto w-2xl max-w-[680px] px-4 py-16">
+      <div className="flex flex-col items-center justify-between gap-10 mx-auto w-2xl min-h-screen max-w-[680px] px-4 py-16">
         <div className="w-full flex flex-col">
           <div className="flex justify-center">
             <Image
