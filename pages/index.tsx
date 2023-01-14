@@ -73,7 +73,7 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.svg" />
       </Head>
-      <div className="h-screen flex flex-col items-center justify-between mx-auto w-2xl max-w-[680px] px-4 py-16">
+      <div className="h-screen flex flex-col items-center justify-between gap-10 mx-auto w-2xl max-w-[680px] px-4 py-16">
         <div className="w-full flex flex-col">
           <div className="flex justify-center">
             <Image
@@ -94,8 +94,8 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <div className="flex flex-col gap-3">
-          <div className="flex gap-3">
+        <div className="w-full flex flex-col gap-3">
+          <div className="flex justify-center gap-3">
             {data.socials.map((link, i) => (
               <LinkSocial key={i} {...link} />
             ))}

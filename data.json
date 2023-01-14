@@ -4,27 +4,45 @@
   "links": [
     {
       "title": "My personal site",
-      "href": "https://leerob.io",
+      "href": "https://new-portfolio-flax.vercel.app/",
       "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
       "color": false
     },
     {
       "title": "Real State",
       "href": "https://project-real-state-beige.vercel.app/",
-      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "image": "/vercel.svg",
       "color": false
     },
     {
       "title": "Spotify 2.0",
       "href": "https://project-spotify-2-0.vercel.app/",
-      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "image": "/spotifys.svg",
       "color": true
     },
     {
       "title": "Linktree Clone",
       "href": "https://project-linktree-clone.vercel.app/",
-      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "image": "/logo.svg",
       "color": false
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/codewithsebas",
+      "image": "/github.svg",
+      "color": false
+    },
+    {
+      "title": "Dribbble",
+      "href": "https://dribbble.com/Dev_Juniorr",
+      "image": "/dribbble.svg",
+      "color": false
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/code-sebastian-giraldo/",
+      "image": "/linkedin.svg",
+      "color": true
     }
   ],
   "socials": [
@@ -41,7 +59,7 @@
       "icon": "/twitter.svg"
     },
     {
-      "href": "https://twitter.com/codewithsebas",
+      "href": "https://open.spotify.com/user/31gjle7xszwdevk3kjbwspzhn5qa",
       "icon": "/spotify.svg"
     }
   ]
