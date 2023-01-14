@@ -1,38 +1,48 @@
 {
-  "name": "@Sebastián Giraldo",
+  "name": "@sebastiangiraldo",
   "avatar": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
   "links": [
     {
       "title": "My personal site",
       "href": "https://leerob.io",
-      "description": "Description",
-      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg"
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "color": false
     },
     {
       "title": "Real State",
       "href": "https://project-real-state-beige.vercel.app/",
-      "description": "Description",
-      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg"
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "color": false
     },
     {
       "title": "Spotify 2.0",
       "href": "https://project-spotify-2-0.vercel.app/",
-      "description": "Description",
-      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg"
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "color": true
+    },
+    {
+      "title": "Linktree Clone",
+      "href": "https://project-linktree-clone.vercel.app/",
+      "image": "https://res.cloudinary.com/dovavvnjx/image/upload/v1654896406/tom_oy9ctk.jpg",
+      "color": false
     }
   ],
   "socials": [
     {
-      "title": "My personal site",
-      "href": "https://leerob.io"
+      "href": "https://www.facebook.com/profile.php?id=100073215561194",
+      "icon": "/facebook.svg"
     },
     {
-      "title": "Real State",
-      "href": "https://project-real-state-beige.vercel.app/"
+      "href": "https://www.instagram.com/codewithsebas/",
+      "icon": "/instagram.svg"
     },
     {
-      "title": "Spotify 2.0",
-      "href": "https://project-spotify-2-0.vercel.app/"
+      "href": "https://twitter.com/codewithsebas",
+      "icon": "/twitter.svg"
+    },
+    {
+      "href": "https://twitter.com/codewithsebas",
+      "icon": "/spotify.svg"
     }
   ]
 }
